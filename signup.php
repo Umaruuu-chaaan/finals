@@ -32,7 +32,7 @@
     <h2>
         Welcome to Online Shopping
     </h2>
-    <form method="post" action="register.php">
+    <form method="post" action="signup.php">
         <?php 
             include('errors.php'); 
         ?>
